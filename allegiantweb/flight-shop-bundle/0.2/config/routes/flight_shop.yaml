@@ -1,0 +1,2 @@
+flight_shop:
+    resource: "@AllegiantWebFlightShopBundle/Resources/config/routing.yml"

@@ -1,0 +1,3 @@
+allegiantweb_flight_shop:
+    ota_flight_shop_url: "%env(OTA_FLIGHT_SHOP)%"
+    dockets_url: "%env(DOCKETSERVICE_URL)%"

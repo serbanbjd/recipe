@@ -1,0 +1,12 @@
+{
+  "bundles": {
+    "AllegiantWeb\\FlightShopBundle\\AllegiantWebFlightShopBundle": ["all"]
+  },
+  "copy-from-recipe": {
+    "config/": "%CONFIG_DIR%/"
+  },
+  "env": {
+    "OTA_FLIGHT_SHOP": "http://lhq026jbsap05.026.allegiantair.com:11180/ota-flight-shop/v3/api/",
+    "DOCKETSERVICE_URL": "http://www.026.allegiantair.com/g4www/www/meta/"
+  }
+}
